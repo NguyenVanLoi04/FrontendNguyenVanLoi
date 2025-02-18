@@ -1,0 +1,35 @@
+.backgroundfirst {
+    background: linear-gradient(to right, #DDD4C5 0%, #8E887E 100%);
+}
+
+.backgroundsecond {
+    background-color: #F7F7F8;
+}
+.info-box {
+    min-height: 320px; 
+}
+.section {
+    border-bottom: 1px solid #d3c1b6;
+    padding: 15px 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section-title {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.section-content {
+    display: none;
+    font-size: 1rem;
+    color: #6c5845;
+    padding-top: 10px;
+}
+.toggle-icon {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.text{
+    font-family: 'Playfair Display', serif;
+}
